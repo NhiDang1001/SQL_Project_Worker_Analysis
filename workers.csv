@@ -1,0 +1,13 @@
+Worker_id,Worker_name,Gender,CompanyJoindate,Birthdate,Birthcity,supervisor_id
+w01,mx,m,1995-05-17,1980-01-01,Austin,w04
+w02,red,f,2003-02-18,1970-09-01,Pittsburgh,w04
+w03,fed,m,1994-03-11,1975-02-23,Boston,w04
+w04,gain,m,2005-05-05,1975-08-16,"Los Angeles",w05
+w05,meo,m,1998-05-15,1978-11-12,"New York",w12
+w06,mao,m,1997-05-03,1989-12-12,"New York",w04
+w07,polly,f,2002-05-03,1978-11-14,"San Francisco",w03
+w08,max,m,2006-05-26,1981-01-04,Seattle,w02
+w09,drudge,f,2002-09-04,1976-12-07,"Los Angeles",w01
+w10,max,f,2007-05-04,1980-01-01,Denver,w09
+w11,fed,m,2012-05-02,1975-01-02,Anaheim,w12
+w12,bull,f,2005-08-11,1989-12-12,Denver,NULL
